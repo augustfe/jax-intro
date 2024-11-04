@@ -1,11 +1,7 @@
-# Welcome to your Jupyter Book
+# An Introduction to JAX
 
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
+This book is an introduction to [JAX](https://jax.readthedocs.io/en/latest/index.html), a library for numerical computing in Python that is designed for high-performance machine learning research. JAX is a powerful tool for writing numerical code that is fast, scalable, and easy to debug. It is built on top of the XLA compiler, which allows it to run on CPUs, GPUs, and TPUs. JAX also provides a functional programming model that makes it easy to write code that is parallelizable and composable.
 
-Check out the content pages bundled with this sample book to see more.
 
 ```{tableofcontents}
 ```
