@@ -5,5 +5,4 @@ format: jb-book
 root: intro
 chapters:
 - file: notebooks/01_introduction
-# - file: markdown
-# - file: markdown-notebooks
+- file: notebooks/02_random_numbers
