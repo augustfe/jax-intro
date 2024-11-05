@@ -6,3 +6,4 @@ root: intro
 chapters:
 - file: notebooks/01_introduction
 - file: notebooks/02_random_numbers
+- file: notebooks/03_a_first_nn
