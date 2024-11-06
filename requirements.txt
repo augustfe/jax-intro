@@ -4,3 +4,4 @@ numpy
 ghp-import
 jax
 flax
+optax
