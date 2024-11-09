@@ -24,6 +24,8 @@ latex:
 bibtex_bibfiles:
   - references.bib
 
+bibtex_reference_style: author_year
+
 # Information about where the book exists on the web
 repository:
   url: https://github.com/augustfe/jax-intro  # Online location of your book
@@ -35,3 +37,8 @@ repository:
 html:
   use_issues_button: true
   use_repository_button: true
+
+sphinx:
+  config:
+    bibtex_reference_style: author_year
+    # bibtex_bibfiles: "references.bib"
